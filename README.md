@@ -15,7 +15,7 @@ In the past, I worked as an Android Java Engineer.(2010〜2018)
 </p>
 
 
-[![trophy](https://github-readme-stats-sigma-five.vercel.app/?username=YoshihideSogawa&margin-w=5)](https://github.com/YoshihideSogawa/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=YoshihideSogawa&margin-w=5)](https://github.com/YoshihideSogawa/)
 
 ## 💬 Contact 💬
 
