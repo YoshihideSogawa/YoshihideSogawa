@@ -1,7 +1,7 @@
 # 🍻 Hi there! 🍻
-I'm a Software Engineer focusing in **Flutter**.(2019〜)
+I'm a software engineer focusing on **Flutter**.(since 2019)
 
-In the past, I worked as an Android Java Engineer.(2010〜2018)
+I have been working as an Android Java engineer.(from 2010 to 2018)
 
 
 ###  🎁 My Skills 🎁
